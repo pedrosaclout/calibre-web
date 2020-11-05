@@ -6,10 +6,10 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: pedromiguelsacouto@gmail.com\n"
 "POT-Creation-Date: 2020-10-31 19:17+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2020-11-05 15:17+GMT\n"
 "Last-Translator: PEDRO SÁ COUTO <EMAIL@ADDRESS>\n"
 "Language-Team: PORTUGUESE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,68 +22,68 @@ msgid "instalado"
 msgstr ""
 
 #: cps/about.py:44 cps/converter.py:33
-msgid "not installed"
+msgid "não instalado"
 msgstr ""
 
 #: cps/about.py:96
-msgid "Statistics"
+msgid "Estatísticas"
 msgstr ""
 
 #: cps/admin.py:93
-msgid "Server restarted, please reload page"
+msgid "Servidor Reconectado, por favor recarregue a página"
 msgstr ""
 
 #: cps/admin.py:95
-msgid "Performing shutdown of server, please close window"
+msgid "A desligar o servidor, por favor feche a janela"
 msgstr ""
 
 #: cps/admin.py:103
-msgid "Reconnect successful"
+msgid "Reconecção bem sucedida"
 msgstr ""
 
 #: cps/admin.py:106
-msgid "Unknown command"
+msgid "Comando desconhecido"
 msgstr ""
 
 #: cps/admin.py:116 cps/editbooks.py:612 cps/editbooks.py:624
 #: cps/editbooks.py:724 cps/editbooks.py:726 cps/editbooks.py:787
 #: cps/editbooks.py:803 cps/updater.py:510 cps/uploader.py:98
 #: cps/uploader.py:108
-msgid "Unknown"
+msgid "Inexistente"
 msgstr ""
 
 #: cps/admin.py:136
-msgid "Admin page"
+msgid "Página Administrador"
 msgstr ""
 
 #: cps/admin.py:158
-msgid "UI Configuration"
+msgid "Configuração UI"
 msgstr ""
 
 #: cps/admin.py:190 cps/admin.py:717
-msgid "Calibre-Web configuration updated"
+msgid "Configuração Calibre-Web actualizada"
 msgstr ""
 
 #: cps/admin.py:435 cps/admin.py:441 cps/admin.py:452 cps/admin.py:463
 #: cps/templates/modal_dialogs.html:29
-msgid "Deny"
+msgid "Recusar"
 msgstr ""
 
 #: cps/admin.py:437 cps/admin.py:443 cps/admin.py:454 cps/admin.py:465
 #: cps/templates/modal_dialogs.html:28
-msgid "Allow"
+msgid "Permitir"
 msgstr ""
 
 #: cps/admin.py:511
-msgid "client_secrets.json Is Not Configured For Web Application"
+msgid "client_secrets.json não está configurado para a aplicação web"
 msgstr ""
 
 #: cps/admin.py:550
-msgid "Logfile Location is not Valid, Please Enter Correct Path"
+msgid "Localização do Logfile inválida, por favor corrija a localização"
 msgstr ""
 
 #: cps/admin.py:555
-msgid "Access Logfile Location is not Valid, Please Enter Correct Path"
+msgid "Acesso inválido à localização do Logfile, por favor corrija a localização"
 msgstr ""
 
 #: cps/admin.py:581
